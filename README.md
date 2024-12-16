@@ -1,6 +1,4 @@
-# Food Delivery Time Prediction Model
 
-![Image Description](img/food-delivery.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
